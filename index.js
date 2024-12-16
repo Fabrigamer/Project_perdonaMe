@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Gracias por perdonarme amor 🥺')
+    alert('Gracias por aceptar mi amor 🥺❤️💗✨')
 });
 
 const noBtn = document.querySelector('#noBtn');
